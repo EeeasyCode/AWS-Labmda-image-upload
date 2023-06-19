@@ -1,8 +1,8 @@
-# housemanger image server
+# aws lambda image server
 
 ## Environment
 
-- AWS (region: ap-northeast-2, bucket: housemanger-image-storage)
+- AWS (region: ap-northeast-2, bucket: aws-image-storage)
 
   - lambda
   - api-gateway
